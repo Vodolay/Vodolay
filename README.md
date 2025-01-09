@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vodolay
 - 👀 I’m interested in gardening. I can also do math, physics and coding.
 - 🌱 I’m currently ruminating on how to survive in a world of very cultured AI bots.
-- 💞️ I’m looking to collaborate with humans or bots on programming in parallel with CUDA and WebGPU.
+- 💞️ I’m looking to collaborate with humans or bots on programming in parallel with CUDA.
 - 📫 How to reach me: lacsirjohn@gmail.com
 
 <!---
